@@ -1,10 +1,13 @@
+=======
+# SimpleRandomColorGenerator
+Simple random color generator beginner exercise in React
+Probably has tons of design errors since im a newbie
+
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install` then `npm start`
 
-=======
-# SimpleRandomColorGenerator
-Simple random color generator exercise in React
->>>>>>> 4630d526cfdec5ecaffae7f1fb4432c3727473a6
+
